@@ -20,22 +20,41 @@ Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám
 ![GitHub Logo](uvodni.png)
 - __Úvodní obrazovka__ - _vybereme typ obtížnosti: lehká_
 
-## 1. možnost vývoje hry ##
+### 1. možnost vývoje hry ###
 ![GitHub Logo](zacatek_hry.png)
-- __Hrací pole__ - _hádáme jméno, typujeme různá písmena a už jsme se jednou mýlili, proto máme obrys (__kopce__)_
+- __Hrací pole__ - _hádáme jméno, typujeme různá písmena a už jsme se jednou mýlili, proto máme obrys __kopce__._
 
 ![GitHub Logo](/postup_hry.png)
-- _stále hádáme tajenku a už jsme se 4x mýlili. Vidíme proto (__kopec__, __stožár__, __rameno__ a __háček__)_
+- _stále hádáme tajenku a už jsme se 4x mýlili. Vidíme proto __kopec__, __stožár__, __rameno__ a __háček__._
 
 ![GitHub Logo](/prohra_hry.png)
 - _vidíme __oběšence__, což značí, že jsme se již 6x mýlili_
 - _zobrazuje se nám správná tajenka a hra pro nás končí_
 
-## 2. možnost vývoje hry ##
+### 2. možnost vývoje hry ###
 ![GitHub Logo](/hra_vyhra.png)
 - _vidíme, že jsme se již 2x spletli ale najednou se nám podařilo tajenku správně uhádnout_
 - _klikneme tedy na tlačítko další, abychom se posunuli na další otázku_
 
 ![GitHub Logo](/hra_vyhra_prohra.png)
 - _jelikož se nám zachoval náš obrys, máme už jen 4 životy_
-- _jelikož však neuhádneme tajenku, zobrazuje se nám po dalších 4 chybách (__oběšenec__)_
+- _jelikož však neuhádneme tajenku, zobrazuje se nám po dalších 4 chybách __oběšenec__._
+
+## Otázky ##
+Jelikož jsou tři kategorie obtížnosti otázek, bude utné udělat dostatečný počet otázek, aby nenastávalo jejich opakování.
+
+Zde jsou 3 příklady od každé obtížnosti
+### Obtížnost: Lehká ###
+- Příjmení českého basketbalisty hrajícího v NBA za Chicago Bulls? - SATORANSKÝ¨
+- Vyhrála 2 zlaté medaile ve dvou odlišných disciplínách na OH 2018. Doplňte její křestní jméno. - ESTER
+- Přijmení držitele nejvíce ocenění "Český Slavík"  - GOTT
+
+### Obtížnost: Střední ###
+- Rok potopení Titaniku. - 1912
+- Křestní jméno herce Agenta007 v letech 2006 - 2021 - DANIEL
+- Hlavní město Albánie - TIRANA
+
+### Obtížnost: Těžká ###
+- Hlavní město Austrálie - CAMBORA
+- Nejjižnější mys amerického kontinentu - HORN
+- Přijmení Boženy Němcové za svobodna - PANKLOVÁ
