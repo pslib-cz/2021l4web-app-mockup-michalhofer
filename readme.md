@@ -6,7 +6,7 @@ Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám
 - Po vybrání typu obtížnosti, se vám v horní části zobrazí otázka a pod ní příslušný počet políček pro doplnění písmen.
 - Do políček lze doplňovat písmena.
 - Při doplňování pouze správných písmen (v případě, že víme rovnou celé slovo) i slov, se výsledná tajenka zobrazí na zeleném pozadí a zobrazí se vám tlačítko "__DALŠÍ__", kterým se vám vygeneruje nová otázka.
-- Při špatném doplnění písmene se však začne kreslit obrys oběšence. Nejprve __kopec__, poté __stožár__, poté __rameno__, poté __hák__, poté __smyčka__ a nakonec samotný __oběšenec__. Znamená to tedy, že máte 5 životů.
+- Při špatném doplnění písmene se však začne kreslit obrys oběšence. Nejprve __kopec__, poté __stožár__, poté __rameno__, poté __hák__, poté __smyčka__ a nakonec samotný __oběšenec__. Znamená to tedy, že máte 6 životů.
 - V ten moment se na červeném pozadí zobrazí výsledná tajenka a stisknutím tlačítka "__NOVÝ__" se vám spustí nová otázka.
 ### Doplňující pravidla ###
 - Pokud máte již nakreslený například __kopec__ a __rameno__ ale slovo následně uhádnete, tak se vám váš obrys nenuluje, ale přenáší se k další otázce.
@@ -16,9 +16,20 @@ Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám
 - Tlačítkem "__NOVÝ__" lze vynulovat postup a vygenerovat novou otázku.
 - Otázky nelze přeskakovat.
 
+
 ![GitHub Logo](uvodni.png)
-- __Úvodní obrazovka__ - _vybereme typ obtížnosti: lehké_
+- __Úvodní obrazovka__ - _vybereme typ obtížnosti: lehká_
 
-
+## 1. možnost vývoje hry ##
 ![GitHub Logo](zacatek_hry.png)
-- __Hrací pole__ - _hádáme jméno, typujeme různá písmena a už jsme se dvakrát mýlili, proto máme obrys (__kopce__ a __ramene__)_
+- __Hrací pole__ - _hádáme jméno, typujeme různá písmena a už jsme se jednou mýlili, proto máme obrys (__kopce__)_
+
+![GitHub Logo](/postup_hry.png)
+- _stále hádáme tajenku a už jsme se 3x mýlili. Vidíme proto (__kopec__, __stožár__, __rameno__ a __háček__)_
+
+![GitHub Logo](/prohra_hry.png)
+- _vidíme __oběšence__, což značí, že jsme se již 6x mýlili a hra pro nás končí_
+
+## 2. možnost vývoje hry ##
+![GitHub Logo](/hra_vyhra.png)
+- _vidíme, že jsme se již 2x spletli ale najednou se nám podařilo tajenku správně uhádnout_
