@@ -15,4 +15,10 @@ Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám
 - Ze hry se lze pomocí šipky vrátit do menu a změnit typ obtížnosti.
 - Tlačítkem "__NOVÝ__" lze vynulovat postup a vygenerovat novou otázku.
 - Otázky nelze přeskakovat.
+
 ![GitHub Logo](uvodni.png)
+- __Úvodní obrazovka__ - _vybereme typ obtížnosti: lehké_
+
+
+![GitHub Logo](zacatek_hry.png)
+- __Hrací pole__ - _hádáme jméno, typujeme různá písmena a už jsme se dvakrát mýlili, proto máme obrys (__kopce__ a __ramene__)_
