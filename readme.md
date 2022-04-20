@@ -8,10 +8,10 @@ Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám
 - Při doplňování pouze správných písmen (v případě, že víme rovnou celé slovo) i slov, se výsledná tajenka zobrazí na zeleném pozadí a tlačítkem "__DALŠÍ__" se vám vygeneruje nová otázka
 - Při špatném doplnění písmene se však začne kreslit obrys oběšence. Nejprve __kopec__, poté __stožár__, poté __rameno__, poté __hák__, poté __smyčka__ a nakonec samotný __oběšenec__. Znamená to tedy, že máte 5 životů.
 - V ten moment se objeví tlačítko hrát znovu, které vygeneruje novou otázku.
-### Doplňující pravidl ###
+### Doplňující pravidla ###
 - Pokud máte již nakreslený například __kopec__ a __rameno__ ale slovo následně uhádnete, tak se vám váš obry nenuluje, ale přenáší se k další otázce.
 ## Funkce ##
 - Menu - výběr obtížnosti
 - Ze hry se lze pomocí šipky vrátit do menu a změnit typ obtížnosti
-- Tlačítkem __NOVÝ__ lze vynulovat postup a vygenerovat novou otázku
+- Tlačítkem "__NOVÝ__" lze vynulovat postup a vygenerovat novou otázku
 - Otázky nelze přeskakovat
