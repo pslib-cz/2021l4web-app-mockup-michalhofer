@@ -1,6 +1,6 @@
 Zhruba 3 hodiny jsem strávil lámaním si hlavy nad tím co za aplikaci vytvořit. Co by bylo tak světoborného, že to ještě nikdy nikoho nenapadlo, a zároveň by to mohl vymyslet student 4. ročníku jako jsem já. Skrze pár nápadů jsem si uvědomil, jak moc komplikované některé aplikace vlastně jsou a že musím být realista. Rád bych vám tedy představil název mé, spíše než aplikace, hry.
-#_ŠIBENICE_
-Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám dokážete čelit nebo vás takzvaně "zabijou".
+# __ŠIBENICE__ #
+Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám dokážete čelit nebo vás takzvaně "_zabijou_".
 ## Pravidla hry ##
 - Hra vám nabídne domovskou obrazovku, skrz kterou si lze vybrat typ obtížnosti (lehká, střední, těžka) dle typu obtížnosti se vám budou následně zobrazovat příslušné otázky.
 - Po vybrání typu obtížnosti, se vám v horní části zobrazí otázka a pod ní příslušný počet políček pro doplnění písmen.
