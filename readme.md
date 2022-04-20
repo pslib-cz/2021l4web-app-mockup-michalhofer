@@ -41,11 +41,10 @@ Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám
 - _jelikož však neuhádneme tajenku, zobrazuje se nám po dalších 4 chybách __oběšenec__._
 
 ## Otázky ##
-Jelikož jsou tři kategorie obtížnosti otázek, bude utné udělat dostatečný počet otázek, aby nenastávalo jejich opakování.
-
+Jelikož jsou tři kategorie obtížnosti otázek, bude nutné udělat dostatečný počet otázek, aby nenastávalo jejich opakování.
 Zde jsou 3 příklady od každé obtížnosti
 ### Obtížnost: Lehká ###
-- Příjmení českého basketbalisty hrajícího v NBA za Chicago Bulls? - SATORANSKÝ¨
+- Příjmení českého basketbalisty hrajícího v NBA za Chicago Bulls? - SATORANSKÝ
 - Vyhrála 2 zlaté medaile ve dvou odlišných disciplínách na OH 2018. Doplňte její křestní jméno. - ESTER
 - Přijmení držitele nejvíce ocenění "Český Slavík"  - GOTT
 
@@ -58,3 +57,7 @@ Zde jsou 3 příklady od každé obtížnosti
 - Hlavní město Austrálie - CAMBORA
 - Nejjižnější mys amerického kontinentu - HORN
 - Přijmení Boženy Němcové za svobodna - PANKLOVÁ
+
+## Logo hry ##
+U hry je dle mého názoru důležitá její přehlednost a logika. Zárovň je dobré, aby ji lidé měli spojeni s nějakým zpamatovatelným symbolem. Já jsem pro hru __ŠIBENICE__ vymyslel toto logo.
+![GitHub Logo](/logo.jpg)
