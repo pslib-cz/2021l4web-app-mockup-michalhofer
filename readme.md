@@ -16,7 +16,7 @@ Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám
 - Tlačítkem "__NOVÝ__" lze vynulovat postup a vygenerovat novou otázku.
 - Otázky nelze přeskakovat.
 
-
+## Vizuál hry ##
 ![GitHub Logo](uvodni.png)
 - __Úvodní obrazovka__ - _vybereme typ obtížnosti: lehká_
 
@@ -61,3 +61,17 @@ Zde jsou 3 příklady od každé obtížnosti
 ## Logo hry ##
 U hry je dle mého názoru důležitá její přehlednost a logika. Zárovň je dobré, aby ji lidé měli spojeni s nějakým zpamatovatelným symbolem. Já jsem pro hru __ŠIBENICE__ vymyslel toto logo.
 ![GitHub Logo](/logo.jpg)
+
+## Kódovací proces ##
+Samotné nakódování stránky bude vyžadovat i krom jazyku HTML a CSS i nějaký jiný, skrz který dokážeme nastavit věci jako generování otázek a systém vyhodnocování. (Na mysli mám např. Python, Javu nebo C / C ++.)
+Důležité bude nakódování funkčního systému, který se možná bude co se týče náročnosti v průběhu tvorby trochu měnit.
+Tuto část bych již plně svěřil do rukou kódera, který má již dříve zmiňované vizuální podklady a teorii. Z pohledu designéra však můžu ke tvrobě přispět například výběrem barev.
+- #B50000 (opacity 60%)
+- #000000 (opacity 80%)
+- #FFFFFF
+- #707070
+- #42B500 (opacity 60%)
+
+## Slova na závěr ##
+Aplikace bude potřebovat více a více nových otázek, takže největší starost vidím s jejich vymýšlením. Nicméně věřím, že funkčí aplikace by mohla leckoho zaujmout. Byla by ke stažení na Google Play i App Storu. 
+
