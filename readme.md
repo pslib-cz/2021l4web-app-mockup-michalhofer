@@ -33,12 +33,12 @@ Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám
 
 ### 2. možnost vývoje hry ###
 ![GitHub Logo](/hra_vyhra.png)
-- _vidíme, že jsme se již 2x spletli ale najednou se nám podařilo tajenku správně uhádnout_
+- _vidíme, že jsme se již 4x spletli ale najednou se nám podařilo tajenku správně uhádnout_
 - _klikneme tedy na tlačítko další, abychom se posunuli na další otázku_
 
 ![GitHub Logo](/hra_vyhra_prohra.png)
-- _jelikož se nám zachoval náš obrys, máme už jen 4 životy_
-- _jelikož však neuhádneme tajenku, zobrazuje se nám po dalších 4 chybách __oběšenec__._
+- _jelikož se nám zachoval náš obrys, máme už jen 2 životy_
+- _jelikož však neuhádneme tajenku, zobrazuje se nám po dalších 2 chybách __oběšenec__._
 
 ## Otázky ##
 Jelikož jsou tři kategorie obtížnosti otázek, bude nutné udělat dostatečný počet otázek, aby nenastávalo jejich opakování.
@@ -60,11 +60,13 @@ Zde jsou 3 příklady od každé obtížnosti
 
 ## Logo hry ##
 U hry je dle mého názoru důležitá její přehlednost a logika. Zárovň je dobré, aby ji lidé měli spojeni s nějakým zpamatovatelným symbolem. Já jsem pro hru __ŠIBENICE__ vymyslel toto logo.
+
 ![GitHub Logo](/logo.jpg)
 
 ## Kódovací proces ##
 Samotné nakódování stránky bude vyžadovat i krom jazyku HTML a CSS i nějaký jiný, skrz který dokážeme nastavit věci jako generování otázek a systém vyhodnocování. (Na mysli mám např. Python, Javu nebo C / C ++.)
 Důležité bude nakódování funkčního systému, který se možná bude co se týče náročnosti v průběhu tvorby trochu měnit.
+Přidání obrysů oběšence bych řešil pomocí SVG objektů.
 Tuto část bych již plně svěřil do rukou kódera, který má již dříve zmiňované vizuální podklady a teorii. Z pohledu designéra však můžu ke tvrobě přispět například výběrem barev.
 - #B50000 (opacity 60%)
 - #000000 (opacity 80%)
@@ -74,4 +76,3 @@ Tuto část bych již plně svěřil do rukou kódera, který má již dříve z
 
 ## Slova na závěr ##
 Aplikace bude potřebovat více a více nových otázek, takže největší starost vidím s jejich vymýšlením. Nicméně věřím, že funkčí aplikace by mohla leckoho zaujmout. Byla by ke stažení na Google Play i App Storu. 
-
