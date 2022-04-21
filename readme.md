@@ -1,3 +1,4 @@
+_(odpusťe mi prosím některé překlepy ve slovech :) )_
 Zhruba 3 hodiny jsem strávil lámaním si hlavy nad tím co za aplikaci vytvořit. Co by bylo tak světoborného, že to ještě nikdy nikoho nenapadlo, a zároveň by to mohl vymyslet student 4. ročníku jako jsem já. Skrze pár nápadů jsem si uvědomil, jak moc komplikované některé aplikace vlastně jsou a že musím být realista. Rád bych vám tedy představil název mé, spíše než aplikace, hry.
 # __ŠIBENICE__ #
 Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám dokážete čelit nebo vás takzvaně "_zabijou_".
@@ -59,7 +60,7 @@ Zde jsou 3 příklady od každé obtížnosti
 - Přijmení Boženy Němcové za svobodna - PANKLOVÁ
 
 ## Logo hry ##
-U hry je dle mého názoru důležitá její přehlednost a logika. Zárovň je dobré, aby ji lidé měli spojeni s nějakým zpamatovatelným symbolem. Já jsem pro hru __ŠIBENICE__ vymyslel toto logo.
+U hry je dle mého názoru důležitá její přehlednost a logika. Zárovň je dobré, aby ji lidé měli spojenou s nějakým zpamatovatelným symbolem. Já jsem pro hru __ŠIBENICE__ vymyslel toto logo.
 
 ![GitHub Logo](/logo.jpg)
 
