@@ -12,6 +12,7 @@ Prověřte své znalosti! Máte všeobecný přehled? Vyzkoušejte zda otázkám
 - V ten moment se na červeném pozadí zobrazí výsledná tajenka a stisknutím tlačítka "__NOVÝ__" se vám spustí nová otázka.
 ### Doplňující pravidla ###
 - Pokud máte již nakreslený například __kopec__ a __rameno__ ale slovo následně uhádnete, tak se vám váš obrys nenuluje, ale přenáší se k další otázce.
+- Zároveň mě napadlo dodat počítadlo správně zodpovězených otázek, to jsem do XD návrhu však již nezahrnul, ale nejspíše bych ho tam přidal.
 ## Funkce ##
 - Menu - výběr obtížnosti.
 - Ze hry se lze pomocí šipky vrátit do menu a změnit typ obtížnosti.
